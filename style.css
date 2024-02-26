@@ -1,0 +1,114 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+    margin: 0%;
+}
+
+header{
+    background-color: white;
+    margin: 0%;
+    font-size: 20px;
+    padding-right: 30px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0%;
+}
+
+.btn{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-right: 10px;
+    background-color: black;
+    border-radius: 15px;
+    border: solid 1px grey;
+}
+
+.btn:hover{
+    background-color: rgb(40,40,40);
+    box-shadow: 3px 6px 12px  rgb(77, 77, 77);
+}
+
+.logo{
+    margin-left: 10px;
+}
+
+section{
+    padding: 30px 90px;
+}
+
+.cim{
+    font-size: 35px;
+    margin-left: 15px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.card{
+    border-radius: 10px;
+    border: 1px solid grey;
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+    width: 33%;
+}
+
+.card:hover{
+    background-color: rgb(40, 40, 40);
+    box-shadow: 3px 6px 12px  rgb(77, 77, 77);
+}
+
+.fot{
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 100%;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+li{
+    list-style-type: none;
+}
+
+footer{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.ul{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 200px;
+    padding: 5px;
+}
+
+.father{
+    text-decoration: none;
+    color: black;
+}
+
+.cime{
+    font-size: 35px;
+    margin-left: 15px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+#banner1{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 100%;
+    margin-left: 15px;
+    margin-right: 15px;
+}
